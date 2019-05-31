@@ -1,0 +1,9 @@
+1.设计模式
+cglib动态代理实现
+涉及的类Enhancer
+涉及的方法create
+参数：Class：被代理对象的字节码
+         MethodIntercetor：也是一个代理类
+
+
+打斷設計：查詢關聯次數超過三次及以上
